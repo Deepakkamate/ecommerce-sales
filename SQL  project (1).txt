@@ -1,0 +1,6 @@
+# SQL Project: 
+Download a dataset from kaggle website
+1. Apply all the SQL concepts on this dataset
+
+
+Kaggle website link: https://www.kaggle.com/datasets
